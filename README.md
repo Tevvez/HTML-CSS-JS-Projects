@@ -1,1 +1,1 @@
-# Web-Games
+# HTML/CSS/JS Projects
